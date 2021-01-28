@@ -73,11 +73,6 @@ from utils import visualization_utils as vis_util
 # In[ ]:
 
 
-# NOTE: axial has various labeler like ju, jh, ak etc,
-# BUT sag is only using a common labeler: sag
-# NOTE: axial is using underscore as predix: _data _graph _detection.pbtxt
-# BUT sag is using hyphen
-
 # Folder name containing the Trained Obj-det model/graph
 MODEL_NAME = 'Axial_1-491_Resnet_Jun142020_graph'
 
