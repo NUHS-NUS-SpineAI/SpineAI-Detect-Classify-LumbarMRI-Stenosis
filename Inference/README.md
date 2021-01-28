@@ -5,7 +5,9 @@
 
 ![inference-demo](../imgs/inference_demo.jpg)
 
-First export the inference graph from the object detection step as well as the classifier weights from the classification step, then proceed to generate either XMLs or bounding box overlays:
+First export the inference graph from the object detection step, and use `Object-Detection/object_detection.py` to generate the detection pickle file.
+
+Along with the detection pickle, gather the classifier weights from the classification step, then proceed to generate either XMLs or bounding box overlays:
 
 ## Predict and Generate XMLs
 

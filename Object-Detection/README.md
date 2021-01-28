@@ -15,7 +15,7 @@ Object detection model is trained with Tensorflow [Object Detection API](https:/
 ## Configuring Spine ROI Detection Model
 
 Our spinal regions of interest (ROI) detection models are trained with the following customizations:
-- graph protos for either axial (left, center or right) or sagittal
+- graph protos (`*.pbtxt`) for either axial (left, center or right) or sagittal
 - config files (`*.config`) to generate the model graphs
   - change the following
     - num_classes
