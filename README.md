@@ -15,7 +15,6 @@ In the paper, we develop and apply AI techniques to automatically detect and cla
 - [**Object Detection**](Object-Detection/): Based on Tensorflow object detection API, we pick Faster R-CNN with Resnet101 architecture pre-trained on COCO dataset to detect region of interest (ROI).
 - [**Classification**](Classification/): CNN architecture consisting of six convolutional layers, outputing four-grade classification predictions.
 - [**Inference**](Inference/): Predict relevant spinal regions (ROI) and infer the disease grades, automatic generation of XML outputs and bounding boxes with probability overlays.
-- [**Performance Analysis**](Performance-Analysis/): Confusion matrices and preliminary inter-rater agreement calculations. Analysis for statistical evaluation during model development.
 - [**Interpretability**](Interpretability/): Explainable AI technique using Integrated Gradients provided by Tensorflow Core.
 
 
