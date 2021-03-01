@@ -8,7 +8,7 @@
 
 This repository contains **code for our paper submitted to Radiology**:
 
-> "Deep learning models for automated detection and classification of central canal, lateral recess, and neural foraminal stenosis on lumbar spine MRI"
+> "Deep learning model for automated detection and classification of central canal, lateral recess and neural foraminal stenosis on lumbar spine MRI" (in press)
 
 In the paper, we develop and apply AI techniques to automatically detect and classify lumbar spinal stenosis on MRI images. The setups and implementations of our system are documented in their respective folders:
 
@@ -20,4 +20,4 @@ In the paper, we develop and apply AI techniques to automatically detect and cla
 
 ## Contact
 
-TBA
+coming soon
