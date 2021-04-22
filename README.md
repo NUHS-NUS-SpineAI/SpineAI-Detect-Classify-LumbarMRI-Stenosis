@@ -20,4 +20,17 @@ In the paper, we develop and apply AI techniques to automatically detect and cla
 
 ## Contact
 
-coming soon
+Address correspondence to J.T.P.D.H. (e-mail: james_hallinan AT nuhs.edu.sg)
+
+## Citate us
+
+If you find our work useful in your research and would like to cite our Radiology paper, please use the following citation:
+
+```
+@article{SpineAINUHS-NUS2021-stenosis,
+title={Deep learning model for automated detection and classification of central canal, lateral recess and neural foraminal stenosis on lumbar spine MRI},
+url={ https://doi.org/10.1148/radiol.2021204289},
+author={
+  ...
+}
+```
