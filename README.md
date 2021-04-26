@@ -18,10 +18,6 @@ In the paper, we develop and apply AI techniques to automatically detect and cla
 - [**Interpretability**](Interpretability/): Explainable AI technique using Integrated Gradients provided by Tensorflow Core.
 
 
-## Contact
-
-Address correspondence to J.T.P.D.H. (e-mail: james_hallinan AT nuhs.edu.sg)
-
 ## Citate us
 
 If you find our work useful in your research and would like to cite our Radiology paper, please use the following citation:
@@ -34,3 +30,13 @@ author={
   ...
 }
 ```
+
+## Contact
+
+Address correspondence to J.T.P.D.H. (e-mail: james_hallinan AT nuhs.edu.sg)
+
+### Disclaimer
+
+No warranty.
+
+Not responsible for any medical usage
