@@ -46,7 +46,7 @@ author={
 }
 ```
 
-## 💜 Contact
+## :mailbox: Contact
 
 Address correspondence to J.T.P.D.H. (e-mail: james_hallinan AT nuhs.edu.sg)
 
