@@ -24,8 +24,17 @@ Our spinal regions of interest (ROI) detection models are trained with the follo
     - train_input_reader path
     - eval_input_reader path
 
-`Object-Detection/object_detection.py` is used to train the object detection pipeline.
+### Train the Object Detection Model and Export Inference Graph
 
+You can follow the guides and tutorials in the "References" below on TF1 object detection. Please make sure you are using a compatible commit of TF1 object detection repo.
+
+We have provided two bash scripts to launch the training and exportation of trained graph:
+- init training `obj_det_train_py.sh`
+- export inference graph `obj_det_export_inference.sh`
+
+### Inspect Object Detection with Pickle
+
+`Object-Detection/object_detection.py` is used to generate the detection pickle file.
 
 ## References
 - TF1 Object Detection API https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1.md
