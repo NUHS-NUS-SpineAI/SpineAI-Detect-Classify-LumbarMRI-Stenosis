@@ -6,9 +6,13 @@
 
 ## 📄 About
 
-This repository contains **code for our paper submitted to Radiology**:
+This repository contains **code for our paper published in Radiology Journal (RSNA)**:
 
-> "Deep learning model for automated detection and classification of central canal, lateral recess and neural foraminal stenosis on lumbar spine MRI" (in press)
+> **"Deep Learning Model for Automated Detection and Classification of Central Canal, Lateral Recess, and Neural Foraminal Stenosis at Lumbar Spine MRI"**
+
+![Rad-img](https://pubs.rsna.org/cms/10.1148/radiol.2021204289/asset/images/medium/radiol.2021204289.va.gif)
+
+[Article link](https://pubs.rsna.org/doi/abs/10.1148/radiol.2021204289) _(Published online: May 11 2021)_
 
 In the paper, we develop and apply AI techniques to automatically detect and classify lumbar spinal stenosis on MRI images.
 
@@ -38,11 +42,13 @@ Explainable AI technique using Integrated Gradients provided by Tensorflow Core.
 If you find our work useful in your research and would like to cite our Radiology paper, please use the following citation:
 
 ```
-@article{SpineAINUHS-NUS2021-stenosis,
-title={Deep learning model for automated detection and classification of central canal, lateral recess and neural foraminal stenosis on lumbar spine MRI},
-url={ https://doi.org/10.1148/radiol.2021204289},
-author={
-  ...
+@article{hallinan2021deep,
+  title={Deep learning model for automated detection and classification of central canal, lateral recess, and neural foraminal stenosis at lumbar spine MRI},
+  author={Hallinan, James Thomas Patrick Decourcy and Zhu, Lei and Yang, Kaiyuan and Makmur, Andrew and Algazwi, Diyaa Abdul Rauf and Thian, Yee Liang and Lau, Samuel and Choo, Yun Song and Eide, Sterling Ellis and Yap, Qai Ven and others},
+  journal={Radiology},
+  pages={204289},
+  year={2021},
+  publisher={Radiological Society of North America}
 }
 ```
 
